@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Grixis</h1>
 <h3 align="center">Covfefe</h3>
 
-- 💬 Ask me about **Dataiku or Python**
+- 💬 Ask me about **Python, Data or Dataiku Platform**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
